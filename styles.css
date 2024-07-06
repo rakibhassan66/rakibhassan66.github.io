@@ -264,3 +264,23 @@ header .w3-bar a:hover {
     height: 150px; /* Decrease image height on smaller screens */
   }
 }
+.gallery-container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px; /* Adjust the size as needed */
+    margin: auto;
+    overflow: hidden;
+}
+
+.gallery-image {
+    width: 100%;
+    display: none; /* Hide all images initially */
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.gallery-image.active {
+    display: block; /* Display the active image */
+}
+
