@@ -1,7 +1,7 @@
 # Rakib Hassan's Portfolio Website
 
 ![Website Screenshot](images/website-screenshot.png)
-![Website Screenshot](/Phtos/web1.png)
+![Website Screenshot](/Photos/web1.png)
 
 ## Overview
 
